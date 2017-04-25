@@ -1,0 +1,25 @@
+天地 (Heaven and Earth) is a game for 2 players.
+
+One player takes the role of of 天意.
+
+The others takes the role of 游侠, a wanderer in the jianghu without sect or master.
+
+To start, deal 游侠 2 cards from a 52-card deck, this is their secret technique, illicitly learned.
+
+Spade: Divine Gate Thirteen Swords (Wudang)
+Heart: Snow Flurry Pieces the Clouds Palm (Emei)
+Clubs: Eighteen Dragon-Subduing Palms (Beggar's Sect)
+Diamond: Great Strength Vajra Finger (Shaolin)
+
+Second card is your tragic past:
+Spade: Loss of a loved one
+Heart: Disowned by your sect
+Clubs: You've been poisoned and will die in seven years' time.
+Diamond: You have amnesia and have no idea who you are where from whence you came.
+
+For each 游侠，天意 deals three more cards, one at a time, as encounters:
+1-10: A citizen in need.
+Jack: An agent of the origin sect of your technique seeks to end your life for learning their secrets.
+Queen: Someone connected to your past catches up to you, are they friend or foe.
+
+
