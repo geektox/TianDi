@@ -9,7 +9,6 @@ Deal 游侠 2 cards from a 52-card deck for character creation.
 
 The first, your weapon.
 
-
 Spade: Sword/Saber
 Heart: Fist/Palm
 Clubs: Staff/Spear
@@ -17,6 +16,7 @@ Diamond: Darts/Needles
 
 
 Second, your tragedy:
+
 Spade: Loss
 Heart: Weakness
 Clubs: Poison
@@ -24,20 +24,19 @@ Diamond: Amnesia
 
 
 For each 游侠，天意 deals one card as encounters:
+
 1-10: A citizen in need.
 Jack: A corrupt politician or merchant seeks to end your life.
 Queen: Someone connected to your past catches up to you.
 King: The Emperor summons you for an unsavory task.
 
-
 天意 and 游侠 tell the tale together until both are satisfied. 天意 decides whether to give 游侠 the card faceup, if they acted with compassion; or facedown, if they acted with vengeance.
-
 
 Encounters continue until all 游侠 have five cards including weapon and past.
 
 
 Manuscript phase:
-Any facedown card may be changed out for a new card from the deck dealt facedown once. If 游侠 earns three facedown cards, they enter 走火入魔 state, and trade all five cards for a final hand of seven new facedown cards.
 
+Any facedown card may be changed out for a new card from the deck dealt facedown once. If 游侠 earns three facedown cards, they enter 走火入魔 state, and trade all five cards for a final hand of seven new facedown cards.
 
 游侠 with the best 5-card poker hand finds the manuscript.
